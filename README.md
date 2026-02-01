@@ -1,4 +1,4 @@
-ai_platform/
+ai_agent/
 ├── registry/
 │   ├── model_registry.py
 │   ├── model_metadata.yaml
