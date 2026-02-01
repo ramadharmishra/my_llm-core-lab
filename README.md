@@ -12,7 +12,8 @@ ai_agent/
 
 
 -------------------
-
+Model Registry 
+-------------------
 gpt-4.1:
   provider: openai
   reasoning: 5
